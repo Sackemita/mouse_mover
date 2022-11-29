@@ -1,5 +1,5 @@
 from tkinter import Tk, Label, Button
-import pyautogui
+#import pyautogui
 
 def utworzenie_okna():
     window = Tk()  # utworzenie okna
